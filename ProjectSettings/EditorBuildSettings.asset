@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Mainmenu.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/LoadingScreen.unity
+    guid: eafd2deeb1a5147b4b43209e10f75816
+  - enabled: 1
+    path: Assets/Scenes/Information.unity
+    guid: 113ca7a7e23c74c98a1abaed1e4d8bd2
+  - enabled: 1
+    path: Assets/Scenes/SelectLevel.unity
+    guid: 9bd2be110688f4ce78a453568549938c
+  - enabled: 1
+    path: Assets/Scenes/HowToPlay1.unity
+    guid: dc6e9febdfa3545c4a1d8b330c155b14
+  - enabled: 1
+    path: Assets/Scenes/HowToPlay2.unity
+    guid: ffd7dbb2263ce4967a343b91ea69a104
+  - enabled: 1
+    path: Assets/Scenes/TicTaoToe.unity
+    guid: 52ed140221fc74a2ca1e3222ed7466d7
+  - enabled: 0
+    path: Assets/Scenes/Gameplay.unity
+    guid: 1190191f900234081a4d3c62496339f9
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
